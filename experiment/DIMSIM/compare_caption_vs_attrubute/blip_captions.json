@@ -1,0 +1,98 @@
+{
+  "airplane": {
+    "0": "looking out of an airplane window at the wing and wingtips of a plane",
+    "1": "there is a large airplane that is flying in the sky",
+    "2": "there is a large red and white airplane sitting on the tarmac",
+    "3": "there is a large blue and white airplane flying in the sky",
+    "4": "there is a large white and blue airplane flying in the sky",
+    "5": "there is a large blue and white airplane taking off from the runway",
+    "6": "there is a large jumbo jet sitting on the tarmac at the airport",
+    "7": "there is a large jetliner flying in the sky with it ' s landing gear down",
+    "8": "there is a large airplane that is taking off from the runway",
+    "9": "there is a large airplane that is flying in the sky"
+  },
+  "bird": {
+    "0": "there is a small bird that is sitting on top of a tree stump",
+    "1": "there is a bird that is sitting on a branch of a tree",
+    "2": "there is a small brown and white bird sitting on a branch",
+    "3": "there is a blue and white bird perched on a tree branch",
+    "4": "there is a bird that is sitting on the branch of a tree",
+    "5": "there is a small bird that is sitting on a tree branch",
+    "6": "there is a small bird that is sitting on the edge of a wall",
+    "7": "there is a bird that is standing on the ground in the grass",
+    "8": "there is a bird that is sitting on a branch in the grass",
+    "9": "there is a bird that is sitting on a branch in the grass"
+  },
+  "car": {
+    "0": "there is a black car that is parked on the side of the road",
+    "1": "this is a picture of a black car parked in a parking lot",
+    "2": "there is a black car that is driving down the street",
+    "3": "there is a black car that is parked on the side of the road",
+    "4": "there is a black car that is parked on the side of the road",
+    "5": "this is a picture of a black car driving down the road",
+    "6": "there is a black car that is parked on the side of the road",
+    "7": "there is a black car that is parked in a parking lot",
+    "8": "there is a silver car parked in a parking lot with other cars in the background",
+    "9": "there is a silver sports car parked on the side of the road"
+  },
+  "clock": {
+    "0": "there is a clock that is hanging on the wall in the room",
+    "1": "this is an image of a clock with roman numerals on it ' s face",
+    "2": "there is a white clock with black numbers on it on the wall",
+    "3": "there is a clock hanging on the wall with numbers on it",
+    "4": "there is a black and white alarm clock sitting on a wooden table",
+    "5": "there is a clock that is sitting on a shelf next to a lamp",
+    "6": "this is an image of a clock with roman numerals on it ' s face",
+    "7": "there is a wooden clock sitting on a table with a plant in the background",
+    "8": "there is a clock with roman numerals on it on a shelf",
+    "9": "there is a clock that is sitting on a shelf in a room"
+  },
+  "couch": {
+    "0": "there is a brown couch sitting in a living room next to a black chair",
+    "1": "this is an image of a living room with a couch and a potted plant",
+    "2": "this is an image of a brown couch in a living room",
+    "3": "there is a brown couch sitting in a living room next to a white rug",
+    "4": "this is an image of a living room with a couch and a rug",
+    "5": "this is an image of a living room with a couch and a rug",
+    "6": "this is an image of a living room with a couch and a chair",
+    "7": "there is a red couch sitting in a living room next to a book shelf",
+    "8": "this is an image of a living room scene with focus on the couch",
+    "9": "there is a couch that is sitting in the corner of a room"
+  },
+  "elephant": {
+    "0": "there is a large elephant that is walking down a dirt road",
+    "1": "there is an elephant that is standing in the grass with it ' s tusks",
+    "2": "there is an elephant that is standing on the side of the road",
+    "3": "there is an elephant that is walking on a dirt road",
+    "4": "there is an elephant that is standing in the grass with it ' s tusks",
+    "5": "there is an elephant walking down a dirt road with trees in the background",
+    "6": "there is a large elephant that is standing in the dirt",
+    "7": "there is a large elephant that is walking down a dirt road",
+    "8": "there is an elephant that is standing in the grass with trees in the background",
+    "9": "there is a large elephant that is walking down a dirt road"
+  },
+  "train": {
+    "0": "there is a train that is going down the tracks near a platform",
+    "1": "there is a train that is pulling into the station on the tracks",
+    "2": "there is a silver train that is sitting on the train tracks",
+    "3": "there is a blue train that is pulling into the train station",
+    "4": "there is a red train that is going down the tracks",
+    "5": "there is a blue and white train on the tracks at a train station",
+    "6": "there is a blue and yellow train that is on the tracks",
+    "7": "there is a red and white train pulling into a train station",
+    "8": "there is a silver and orange train on the tracks at a train station",
+    "9": "there is a blue and white train on the tracks at a train station"
+  },
+  "umbrella": {
+    "0": "there is a red umbrella that is sitting on the side of the street",
+    "1": "there is a woman walking down the street holding a red umbrella",
+    "2": "there is a table with chairs and an umbrella in the middle of a courtyard",
+    "3": "there is a pink umbrella that is sitting on the side of the street",
+    "4": "there is a woman that is holding an umbrella in the street",
+    "5": "this is an image of a woman holding an umbrella on a city street",
+    "6": "tables and chairs with umbrellas on a patio in front of a building",
+    "7": "there is a woman that is walking down the street with an umbrella",
+    "8": "there is a woman that is holding a purple and white umbrella",
+    "9": "there is a woman that is sitting under a yellow umbrella"
+  }
+}

@@ -1,0 +1,22 @@
+{
+    "concept": "car",
+    "simple_attribute_prompts": {
+        "color": {
+            "red": "a red car",
+            "blue": "a blue car",
+            "black": "a black car",
+            "white": "a white car",
+            "silver": "a silver car",
+            "gray": "a gray car"
+        },
+        "body_type": {
+            "coupe": "a coupe car",
+            "Sedan": "a Sedan car",
+            "SUV": "an SUV car",
+            "Truck": "a Truck car",
+            "convertible": "a convertible car",
+            "hatchback": "a hatchback car",
+            "Minivan": "a Minivan car"
+        }
+    }
+}

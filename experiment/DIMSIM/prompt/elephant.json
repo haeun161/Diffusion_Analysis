@@ -1,0 +1,28 @@
+{
+    "concept": "elephant",
+    "simple_attribute_prompts": {
+        "color": {
+            "gray": "a gray elephant",
+            "brown": "a brown elephant"
+        },
+        "tusk_type": {
+            "long": "an elephant with long tusk",
+            "no tusk": "an elephant with no tusk"
+        },
+        "state": {
+            "swimming": "a swimming elephant",
+            "standing": "a standing elephant",
+            "sitting": "a sitting elephant",
+            "lying down": "an elephant lying down",
+            "walking": "a walking elephant"
+        },
+        "age": {
+            "young": "a young elephant",
+            "adult": "an adult elephant"
+        },
+        "trunk_state": {
+            "raised": "an elephant with a raised trunk",
+            "lowered": "an elephant with a lowered trunk"
+        }
+    }
+}

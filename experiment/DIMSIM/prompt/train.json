@@ -1,0 +1,24 @@
+{
+    "concept": "train",
+    "simple_attribute_prompts": {
+        "color": {
+            "red": "a red train",
+            "blue": "a blue train",
+            "green": "a green train",
+            "yellow": "a yellow train",
+            "silver": "a silver train",
+            "black": "a black train"
+        },
+        "type": {
+            "inter-city": "an inter-city train",
+            "freight": "a freight train",
+            "high-speed": "a high-speed train",
+            "subway": "a subway train"
+        },
+        "locomotive_type": {
+            "diesel": "a diesel train",
+            "electric": "an electric train",
+            "steam": "a steam train"
+        }
+    }
+}

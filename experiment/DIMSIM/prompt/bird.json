@@ -1,0 +1,28 @@
+{
+    "concept": "bird",
+    "simple_attribute_prompts": {
+        "state": {
+            "flying": "a flying bird",
+            "perched": "a perched bird",
+            "walking": "a walking bird",
+            "swimming": "a swimming bird"
+        },
+        "color": {
+            "brown": "a brown bird",
+            "gray": "a gray bird",
+            "black": "a black bird",
+            "white": "a white bird",
+            "blue": "a blue bird",
+            "red": "a red bird"
+        },
+        "pattern": {
+            "striped": "a striped bird",
+            "spotted": "a spotted bird",
+            "solid": "a solid bird"
+        },
+        "wing_position": {
+            "open": "a bird with open wings",
+            "closed": "a bird with closed wings"
+        }
+    }
+}

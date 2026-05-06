@@ -1,0 +1,27 @@
+{
+    "concept": "clock",
+    "simple_attribute_prompts": {
+        "shape": {
+            "round": "a round clock",
+            "rectangular": "a rectangular clock"
+        },
+        "color": {
+            "black": "a black clock",
+            "white": "a white clock",
+            "brown": "a brown clock",
+            "gray": "a gray clock",
+            "silver": "a silver clock",
+            "gold": "a gold clock"
+        },
+        "material": {
+            "wood": "a wood clock",
+            "metal": "a metal clock",
+            "plastic": "a plastic clock",
+            "glass": "a glass clock"
+        },
+        "display_type": {
+            "analog": "an analog clock",
+            "digital": "a digital clock"
+        }
+    }
+}

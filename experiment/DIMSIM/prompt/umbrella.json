@@ -1,0 +1,29 @@
+{
+    "concept": "umbrella",
+    "simple_attribute_prompts": {
+        "color": {
+            "red": "a red umbrella",
+            "blue": "a blue umbrella",
+            "green": "a green umbrella",
+            "yellow": "a yellow umbrella",
+            "black": "a black umbrella",
+            "white": "a white umbrella"
+        },
+        "state": {
+            "open": "an open umbrella",
+            "closed": "a closed umbrella",
+            "broken": "a broken umbrella",
+            "torn": "a torn umbrella"
+        },
+        "shape": {
+            "round": "a round umbrella",
+            "rectangular": "a rectangular umbrella"
+        },
+        "pattern": {
+            "striped": "a striped umbrella",
+            "polka-dotted": "a polka-dotted umbrella",
+            "floral": "a floral umbrella",
+            "geometric": "a geometric umbrella"
+        }
+    }
+}

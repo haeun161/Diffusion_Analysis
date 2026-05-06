@@ -1,0 +1,40 @@
+{
+    "concept": "couch",
+    "simple_attribute_prompts": {
+        "color": {
+            "black": "a black couch",
+            "white": "a white couch",
+            "brown": "a brown couch",
+            "gray": "a gray couch",
+            "beige": "a beige couch",
+            "red": "a red couch",
+            "blue": "a blue couch"
+        },
+        "material": {
+            "leather": "a leather couch",
+            "fabric": "a fabric couch",
+            "wood": "a wood couch",
+            "metal": "a metal couch",
+            "plastic": "a plastic couch"
+        },
+        "shape": {
+            "rectangular": "a rectangular couch",
+            "curved": "a curved couch"
+        },
+        "upholstery_pattern": {
+            "solid": "a solid couch",
+            "striped": "a striped couch",
+            "floral": "a floral couch",
+            "geometric": "a geometric couch",
+            "polka-dotted": "a polka-dotted couch"
+        },
+        "state": {
+            "clean": "a clean couch",
+            "dirty": "a dirty couch"
+        },
+        "part_status": {
+            "with cushions": "a couch with cushions",
+            "without cushions": "a couch without cushions"
+        }
+    }
+}
